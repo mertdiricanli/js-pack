@@ -1,0 +1,9 @@
+﻿.slider-outer{float:left; width:500px; height:335px; overflow:hidden; position:relative; margin:9px 0 0 9px;}
+.slider{float:left; width:500px; height:335px; position:relative;}
+.slide{float:left; display:block; width:500px; height:335px; position:relative; text-decoration:none;}
+.slide img{-moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px;}
+.slide-content{position:absolute; z-index:1; width:470px; height:335px; top:0px; right:0px;}
+.slidebuttons{position:absolute; right:20px; bottom:20px; z-index:2;}
+.slidebuttons ul{float:left;}
+.slidebuttons li{float:left; width:12px; height:12px; border:1px solid #000; margin:0 1px 0 0px; background:#fff; cursor:pointer;}
+.slidebuttons li.activebutton{background:#000; border:1px solid #fff;}

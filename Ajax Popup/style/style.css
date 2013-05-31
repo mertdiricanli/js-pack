@@ -1,0 +1,6 @@
+﻿.button{float:left; font-family:Arial; font-size:12px; font-weight:bold; padding:10px 20px 10px 20px; background:#000; border:5px solid #f2f2f2; margin:9px; color:#fff; cursor:pointer;}
+.loader-outer{position:absolute; width:100%; height:100%; background:url(../images/mask.png); z-index:101; top:0px; left:0px; display:none;}
+.loader{position:fixed; width:52px; height:52px; background:url(../images/img-loader-bg.png);}
+.loader img{float:left; margin:13px 0 0 13px;}
+.modalmask{position:absolute; width:100%; height:100%; background:url(../images/mask.png); z-index:101; top:0px; left:0px; visibility:hidden;}
+.popup{position:fixed; top:0px; left:0px; width:500px; background:#fff; z-index:102; visibility:hidden; -webkit-box-shadow:1px 1px 3px 3px rgba(0, 0, 0, 0.1); box-shadow:1px 1px 3px 3px rgba(0, 0, 0, 0.1);}
