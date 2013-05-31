@@ -1,3 +1,3 @@
 js-pack
 =======
-Sık kullandığım JS scriptlerini HTML örnekleriyle birlikte bir araya getirdim. 
+Sık kullandığım JS'leri HTML örnekleriyle birlikte bir araya getirdim. 
